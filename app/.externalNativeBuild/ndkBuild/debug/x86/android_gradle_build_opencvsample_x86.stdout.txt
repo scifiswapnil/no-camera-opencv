@@ -1,1 +1,1 @@
-make: `C:/Users/craigdev/Development/no-camera-opencv/app/build/intermediates/ndkBuild/debug/obj/local/x86/libopencvsample.so' is up to date.
+make: `/home/scifiswapnil/ScifiSwapnil/projects/no-cam/no-camera-opencv/app/build/intermediates/ndkBuild/debug/obj/local/x86/libopencvsample.so' is up to date.
